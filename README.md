@@ -7,7 +7,7 @@
 ---
 
 ### 💫 About Me:
-- 🚀 Currently working at [Bridgeon Solution](https://bridgeon.in/)
+- 🚀 Currently working at [Kodlar Innovations](https://kodlar.in/)
 - 💡 Passionate about building scalable web apps using MERN Stack
 - 📫 Reach me at: **muhammedshahil7012@gmail.com**
 
